@@ -1,4 +1,4 @@
-## Oii! Eu sou a Fernanda Gabbai
+## Oii! Eu sou a Fernanda Gabbai ✨
 
 - 🏋️‍♀️ Hoje trabalho como Cientista do Esporte
 - 🤓 Graduanda em Ciencia de Dados
