@@ -7,9 +7,12 @@
 
 <div>
   <a href="https://github.com/fergabbai">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=fergabbai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergabbai&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm"  src="https://github-readme-stats.vercel.app/api?username=fergabbai&show_icons=true&theme=radical" />
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergabbai&layout=compact&theme=radical" />
 </div>
+  
+  ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
