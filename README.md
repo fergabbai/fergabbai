@@ -2,7 +2,7 @@
 
 - 🏋️‍♀️ Hoje trabalho como Cientista do Esporte
 - 🤓 Graduanda em Ciencia de Dados
-- 🌀 Em transição de carreira...
+- 🌀 Data Engineer em desenvolvimento...
 - 🐍 Estudando Python
 
 <div>
